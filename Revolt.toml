@@ -1,0 +1,6 @@
+[hosts]
+app = "https://chat.devoplx.com"
+api = "https://chat.devoplx.com/api"
+events = "wss://chat.devoplx.com/ws"
+autumn = "https://chat.devoplx.com/autumn"
+january = "https://chat.devoplx.com/january"
